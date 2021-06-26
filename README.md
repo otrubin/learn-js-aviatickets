@@ -1,1 +1,10 @@
-# learn-js-part-5-tickets
+# learn-js-aviatickets
+
+### Подбор авирейсов
+Демо: http://portfolio.easyservs.ru/aviatickets/
+
+Учебный проект, сделанный в курсе по обучению javascript
+
+По сути, меня нельзя считать автором кода, но писал все сам, ничего не копируя + переделывал, то что не нравилось.
+
+Бекенд поднят здесь https://aviasales-api.herokuapp.com/ предоставлен автором курса.

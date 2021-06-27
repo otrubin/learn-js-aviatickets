@@ -1,6 +1,6 @@
 # learn-js-aviatickets
 
-### Подбор авирейсов
+### Подбор авиарейсов
 Демо: http://portfolio.easyservs.ru/aviatickets/
 
 Учебный проект, сделанный в курсе по обучению javascript
